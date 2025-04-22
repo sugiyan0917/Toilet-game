@@ -35,3 +35,4 @@ Thumbs.db
 *.lfsconfig
 
 Assets/TextMesh Pro/Fonts/NotoSansJP-Light SDF.asset
+.DS_Store
